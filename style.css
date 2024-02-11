@@ -20,12 +20,12 @@ body{
     width: 100%;
     max-width: 350px;
     text-align: center;
-    margin-top: 50%;
+    margin-top: 5%;
     padding-top: 30px;
     padding-bottom: 36px;
     background-color: var(--Dark-Grey);
     border-radius: 9px;
-    margin-bottom: 60px;
+    margin-bottom: 5%;
 }
 p{
     padding: 10px;
